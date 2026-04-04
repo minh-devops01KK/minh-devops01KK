@@ -51,36 +51,6 @@ design → build → break → optimize → repeat
 - Infrastructure as Code using **Terraform**
 - CI/CD pipelines using native AWS services
 
-🚀 **Next milestone**
-- AWS Certified **Solutions Architect**
-- Production-grade multi-tier architectures
-- Portfolio-ready cloud projects
-
----
-
-## 🤝 Collaboration & Interests
-
-👯 **Open to collaborate on**
-- Cloud-native applications
-- Student or early-stage startup projects
-- Systems that require **scalability, performance, and clean architecture**
-
-🤝 **Looking for guidance on**
-- Multi-region AWS architectures
-- Advanced HA/DR designs
-- Real-world cost optimization techniques
-- Production CI/CD and Terraform workflows
-
-💬 **Ask me about**
-- AWS fundamentals & cloud architecture concepts
-- Backend engineering with C#/.NET
-- Networking basics (TCP/UDP, sockets, concurrency)
-- System design thinking for distributed systems
-
-⚡ **Fun fact**
-- I enjoy transforming simple ideas into **production-ready cloud architectures** — from zero to scalable systems.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -90,13 +60,6 @@ design → build → break → optimize → repeat
 - Docker
 - Linux
 
-### 🧠 Backend & Networking
-- C#, .NET
-- Node.js
-- REST APIs
-- TCP / UDP
-- Socket Programming
-- Multithreading & Concurrency
 
 ### 🔧 Tools
 - Git & GitHub
@@ -105,30 +68,16 @@ design → build → break → optimize → repeat
 - Postman
 - Wireshark
 - Fiddler
-
----
+- Prometheus
+- Grafana
+- Jenkins
+- Gitaction
 
 ## 🌐 Socials
 
 - **Facebook**: https://www.facebook.com/kiennguly24  
 - **LinkedIn**: https://www.linkedin.com/in/kien-vpc-peering/
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiennguly&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kiennguly&theme=merko&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiennguly&theme=merko&hide_border=false&layout=compact)
-
----
-## ✍️ Philosophy
-
-> “Cloud architecture is not about services — it’s about **trade-offs, resilience, and decisions under constraints**.”
-
----
 
 ⭐ If you find my projects or learning journey interesting, feel free to connect or follow along.  
 I’m always open to learning, building, and improving.
