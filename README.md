@@ -1,4 +1,4 @@
-# 🌩️ Kien Nguyen (Trung) — Aspiring AWS Solutions Architect
+# 🌩️ Kien Nguyen (Trung) — Devops Engineer
 
 <p align="center">
   Passionate about Cloud Architecture, Distributed Systems, and Scalable Backend Engineering.
