@@ -1,4 +1,4 @@
-# 🌩️ Kien Nguyen (Trung) — Devops Engineer
+# 🌩️ Kien Nguyen (Trung) — DevOps Engineer
 
 <p align="center">
   Passionate about Cloud Architecture, Distributed Systems, and Scalable Backend Engineering.
@@ -6,11 +6,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Certified-FF9900?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/Target-AWS%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate%20Certified-232F3E?style=for-the-badge&logo=amazonaws"/>
   <img src="https://img.shields.io/badge/Backend-.NET%20%7C%20C%23-blueviolet?style=for-the-badge&logo=dotnet"/>
   <img src="https://img.shields.io/badge/Cloud-IaC%20%7C%20DevOps-844FBA?style=for-the-badge&logo=terraform"/>
 </p>
-
 ---
 
 ## 👋 About Me
