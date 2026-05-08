@@ -1,4 +1,4 @@
-# 🌩️ Kien Nguyen (Trung) — DevOps Engineer
+# Ngoc Minh — DevOps Engineer
 
 <p align="center">
   AWS Certified Solutions Architect – Associate | AWS Certified Cloud Practitioner
