@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-Hello! I’m Kien Nguyen (Trung) — an IT student and AWS Certified Solutions Architect with a strong focus on cloud-native system design, scalability, reliability engineering, CI/CD automation, containerization, and monitoring.
+Hello! I’m Ngoc Minh — an IT student and AWS Certified Solutions Architect with a strong focus on cloud-native system design, scalability, reliability engineering, CI/CD automation, containerization, and monitoring.
 
 I hold both the AWS Certified Cloud Practitioner and AWS Certified Solutions Architect – Associate credentials, and I focus on designing, building, deploying, monitoring, and operating real-world AWS architectures rather than just passing exams.
 
